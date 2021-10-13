@@ -2,7 +2,6 @@
 
 ## I'm a Learner, Developer, and ex-Greek Presidential Guard!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently follow the learning path to machine learning and computer vision
 - 👯 I’m looking to collaborate with people that they will challenge me to be better
 - 🥅 2021 Goals: Challenge my self to become a better developer and reach a good level of ML 
