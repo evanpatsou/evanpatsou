@@ -20,8 +20,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanpatsou&hide=html,CSS,TSQL&langs_count=8&layout=compact&theme=dark"/>
 
-<br />
-
 ---
 
 ### 📺 YouTube Series
